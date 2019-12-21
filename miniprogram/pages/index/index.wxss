@@ -1,0 +1,10 @@
+.title{
+  font-weight:bold;
+  font-size:200%;
+   text-align: center;
+    margin-bottom:5ch;
+}
+.get{
+  text-align: center;
+   margin-bottom:5ch;
+}

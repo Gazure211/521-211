@@ -1,0 +1,4 @@
+<view class="title">门外有人</view>
+<view class="get">{{getcase}}</view>
+<button bindtap='open' type='primary'>开门</button>
+<button bindtap='close' type='warn'>关门</button>
